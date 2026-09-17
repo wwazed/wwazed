@@ -28,9 +28,9 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,js,sql,tensorflow,pytorch,sklearn,docker,aws,gcp,git,latex" />
 </p>
 
-**Languages:** Python, C++, JavaScript, SQL, LaTeX
-**ML/AI:** PyTorch, TensorFlow, Scikit-learn, Computer Vision, Transformers, RAG, LangChain
-**Data:** NumPy, Pandas, Seaborn, Matplotlib, Power BI, OpenRefine
+**Languages:** Python, C++, JavaScript, SQL, LaTeX \
+**ML/AI:** PyTorch, TensorFlow, Scikit-learn, Computer Vision, Transformers, RAG, LangChain \
+**Data:** NumPy, Pandas, Seaborn, Matplotlib, Power BI, OpenRefine \
 **Cloud & Infra:** AWS, GCP, Docker
 
 ---
