@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wwazed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com//in/wasif-al-wazed-wasi-07a589391/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:wwazed@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/London-UK-blue?style=for-the-badge" />
 </p>
@@ -39,10 +39,10 @@
 
 | Project | Description |
 |---|---|
-| **[Mental Health Prediction — Stacking Ensemble](https://github.com/wwazed)** | ML framework predicting mental health conditions from survey data, combining Logistic Regression, Decision Tree, Random Forest, KNN, and Gradient Boosting in a stacking ensemble. |
-| **[Beef Image Classification (Android)](https://github.com/wwazed)** | CNN-based computer vision model for meat type/quality classification, deployed to an Android app for real-time inference. |
-| **[Pox Skin Disease Classification](https://github.com/wwazed)** | Transfer learning with DenseNet121 & MobileNetV2 to classify Mpox, Chickenpox, Measles, Cowpox, HFMD vs. healthy skin — up to 80% test accuracy. |
-| **[Dual-Input Solar + Capacitive Wireless EV Charging](https://github.com/wwazed)** | Design and control simulation of a 15kW dual-input DC-DC converter combining solar PV and capacitive wireless power transfer, with PI controller design and stability analysis. |
+| **[Mental Health Prediction — Stacking Ensemble](https://github.com/wwazed/Mental-Health-Prediction-with-Stacking-Ensemble-Model)** | ML framework predicting mental health conditions from survey data, combining Logistic Regression, Decision Tree, Random Forest, KNN, and Gradient Boosting in a stacking ensemble. |
+| **[Beef Image Classification (Android)](https://github.com/wwazed/Beef_Image_Classification)** | CNN-based computer vision model for meat type/quality classification, deployed to an Android app for real-time inference. |
+| **[Pox Skin Disease Classification](https://github.com/wwazed/Pox-Classification-using-MobileNet-and-DenseNet-based-Architecture)** | Transfer learning with DenseNet121 & MobileNetV2 to classify Mpox, Chickenpox, Measles, Cowpox, HFMD vs. healthy skin — up to 80% test accuracy. |
+| **[Dual-Input Solar + Capacitive Wireless EV Charging]()** | Design and control simulation of a 15kW dual-input DC-DC converter combining solar PV and capacitive wireless power transfer, with PI controller design and stability analysis. |
 
 *(Update the links above once the individual repos are live.)*
 
