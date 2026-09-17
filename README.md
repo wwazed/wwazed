@@ -60,14 +60,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wwazed&show_icons=true&theme=default&hide_border=true" alt="Wasif's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wwazed&hide_border=true" alt="Wasif's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwazed&layout=compact&hide_border=true" alt="Top languages" height="165"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wwazed&show_icons=true&theme=default&hide_border=true" alt="Wasif's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wwazed&hide_border=true" alt="Wasif's GitHub streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wwazed&layout=compact&hide_border=true" alt="Top languages" height="165"/> </p>
 
 ---
 
