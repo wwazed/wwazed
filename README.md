@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wasif Al Wazed Wasi 👋</h1>
 
 <p align="center">
-  MSc Applied AI (Greenwich) · ML & LLM Evaluation Engineer · Applied Research
+  MSc Applied AI (University of Greenwich) · ML & LLM Evaluation Engineer · Applied Research
 </p>
 
 <p align="center">
